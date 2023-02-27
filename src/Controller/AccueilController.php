@@ -9,7 +9,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class AccueilController extends AbstractController
 {
-    /
+    /** 
      * @Route("/")
      */
 
@@ -20,7 +20,7 @@ class AccueilController extends AbstractController
 
     }
 
-    /
+    /** 
      * @Route("/Apropos")
      */
 
